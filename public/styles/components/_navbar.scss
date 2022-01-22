@@ -1,0 +1,38 @@
+.navbar {
+	background-color: #003265;
+	display: flex;
+	height: clamp(4rem, 8vw, 4.825rem);
+
+	* {
+		max-height: 100%;
+	}
+
+	.align-right {
+		margin-left: auto;
+	}
+	.align-let {
+		margin-right: auto;
+	}
+	ul {
+		display: flex;
+		li {
+			padding: 0.75rem 0;
+			a {
+				display: flex;
+				align-items: center;
+				text-align: center;
+				height: 100%;
+				padding: 0 3vw;
+				text-decoration: none;
+				font-weight: bold;
+				color: white;
+			}
+		}
+		.home-icon {
+			font-size: 1.75rem;
+		}
+	}
+}
+
+@media screen and (max-width: 768px) {
+}

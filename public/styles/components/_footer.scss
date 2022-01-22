@@ -1,0 +1,52 @@
+footer {
+	background-color: #0a0d0f;
+	color: white;
+	// margin-top: auto;
+	padding: 1.25rem;
+	padding-top: 3.75rem;
+
+	* {
+		font-family: 'Poppins', sans-serif;
+		font-weight: 300;
+	}
+	.contact {
+		letter-spacing: 3.5px;
+
+		text-align: center;
+		padding: 1rem;
+		padding-top: 0;
+		font-size: 1.25rem;
+	}
+
+	.socials {
+		list-style-type: none;
+		display: flex;
+		justify-content: center;
+		padding: 1rem;
+		li {
+			margin: 0 5px;
+			width: 2rem;
+			height: 2rem;
+			background-color: white;
+			position: relative;
+			border-radius: 50%;
+			a {
+				position: absolute;
+				inset: 0;
+				display: grid;
+				place-items: center;
+				font-size: 1rem;
+				text-decoration: none;
+				color: black;
+			}
+		}
+	}
+
+	p {
+		text-align: center;
+		white-space: pre-wrap;
+		letter-spacing: 1px;
+		font-size: 11px;
+		padding: 1rem;
+	}
+}
