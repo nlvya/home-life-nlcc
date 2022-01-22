@@ -320,26 +320,35 @@ footer p {
 
 .countdown {
   margin-block: auto;
+  font-size: 6rem;
+  font-weight: 500;
+  color: #1e272e;
+}
+
+.countdown .countdown-title {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #485460;
+}
+
+.countdown .counter {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  font-size: 6rem;
-  font-weight: 500;
-  color: #1e272e;
 }
 
-.countdown .spacer {
+.countdown .counter .spacer {
   white-space: pre-wrap;
 }
 
-.countdown li {
+.countdown .counter li {
   position: relative;
 }
 
-.countdown li::after {
+.countdown .counter li::after {
   position: absolute;
   left: 50%;
   top: 100%;
@@ -347,22 +356,23 @@ footer p {
           transform: translateX(-50%);
   height: 20px;
   font-size: 20px;
+  text-transform: uppercase;
   color: #485460;
 }
 
-.countdown .days::after {
+.countdown .counter .days::after {
   content: 'days';
 }
 
-.countdown .hours::after {
+.countdown .counter .hours::after {
   content: 'hours';
 }
 
-.countdown .minutes::after {
+.countdown .counter .minutes::after {
   content: 'minutes';
 }
 
-.countdown .seconds::after {
+.countdown .counter .seconds::after {
   content: 'seconds';
 }
 /*# sourceMappingURL=main.css.map */
