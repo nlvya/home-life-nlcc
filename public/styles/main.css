@@ -357,7 +357,7 @@ footer p {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   height: 20px;
-  font-size: 0.33em;
+  font-size: 0.25em;
   text-transform: uppercase;
   color: #485460;
 }
