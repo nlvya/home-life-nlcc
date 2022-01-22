@@ -320,7 +320,7 @@ footer p {
 
 .countdown {
   margin-block: auto;
-  font-size: 6rem;
+  font-size: clamp(2.5rem, 10vw, 6rem);
   font-weight: 500;
   color: #1e272e;
 }
@@ -335,6 +335,8 @@ footer p {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -355,7 +357,7 @@ footer p {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   height: 20px;
-  font-size: 20px;
+  font-size: 0.33em;
   text-transform: uppercase;
   color: #485460;
 }
