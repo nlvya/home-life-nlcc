@@ -1,0 +1,26 @@
+.banner-container {
+	max-height: 30rem;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	overflow: hidden;
+
+	position: relative;
+	img {
+		// transform: translateY(10rem);
+		filter: brightness(0.7);
+		width: 100%;
+	}
+	.banner-title {
+		font-weight: 400;
+		text-shadow: 0 0 10px #000;
+
+		position: absolute;
+		color: #f1f2f6;
+		font-size: clamp(1.5rem, 6vw, 4rem);
+		text-align: center;
+		left: 50%;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
+}
