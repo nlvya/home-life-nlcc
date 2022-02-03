@@ -1,38 +1,64 @@
 .navbar {
-	background-color: $accent-blue;
+	background-color: $accent-blue-light;
 	display: flex;
-	height: clamp(4rem, 8vw, 4.825rem);
+	flex-direction: column;
+	// height: clamp(4rem, 8vw, 4.825rem);
 
 	* {
 		max-height: 100%;
 	}
-
-	.align-right {
-		margin-left: auto;
-	}
-	.align-let {
-		margin-right: auto;
-	}
-	ul {
+	.fixed-head {
 		display: flex;
-		li {
+		justify-content: space-between;
+		width: 100%;
+		height: clamp(4rem, 8vw, 4.825rem);
+
+		background-color: $accent-blue;
+		.logo {
 			padding: 0.75rem 0;
-			a {
-				display: flex;
-				align-items: center;
-				text-align: center;
-				height: 100%;
-				padding: 0 3vw;
-				text-decoration: none;
-				font-weight: bold;
+			min-width: 100px;
+			// padding: 0.75rem 0;
+			height: 100%;
+		}
+
+		li {
+			margin: 0 0.75rem;
+		}
+
+		.menu-button {
+			display: grid;
+			place-items: center;
+			padding-inline: 1rem;
+			padding: 0.75rem 0;
+			.menu-icon {
 				color: white;
+				font-size: clamp(1.75rem, 9vw, 2.5rem);
+				cursor: pointer;
 			}
 		}
-		.home-icon {
-			font-size: 1.75rem;
+	}
+	.links {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		place-items: center;
+		li {
+			padding-block: 1rem;
+			font-size: clamp(1rem, 10vw, 1.25rem);
+			a {
+				color: white;
+				text-decoration: white;
+			}
+			&.icon {
+				padding-block: 0.25rem;
+			}
 		}
 	}
 }
 
 @media screen and (max-width: 768px) {
+	.desktop {
+		display: none;
+		visibility: hidden;
+	}
 }

@@ -193,52 +193,90 @@ body {
 }
 
 .navbar {
-  background-color: #003265;
+  background-color: #004891;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  height: clamp(4rem, 8vw, 4.825rem);
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .navbar * {
   max-height: 100%;
 }
 
-.navbar .align-right {
-  margin-left: auto;
-}
-
-.navbar .align-let {
-  margin-right: auto;
-}
-
-.navbar ul {
+.navbar .fixed-head {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+  height: clamp(4rem, 8vw, 4.825rem);
+  background-color: #003265;
 }
 
-.navbar ul li {
+.navbar .fixed-head .logo {
+  padding: 0.75rem 0;
+  min-width: 100px;
+  height: 100%;
+}
+
+.navbar .fixed-head li {
+  margin: 0 0.75rem;
+}
+
+.navbar .fixed-head .menu-button {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  padding-inline: 1rem;
   padding: 0.75rem 0;
 }
 
-.navbar ul li a {
+.navbar .fixed-head .menu-button .menu-icon {
+  color: white;
+  font-size: clamp(1.75rem, 9vw, 2.5rem);
+  cursor: pointer;
+}
+
+.navbar .links {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  text-align: center;
-  height: 100%;
-  padding: 0 3vw;
-  text-decoration: none;
-  font-weight: bold;
-  color: white;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  place-items: center;
 }
 
-.navbar ul .home-icon {
-  font-size: 1.75rem;
+.navbar .links li {
+  padding-block: 1rem;
+  font-size: clamp(1rem, 10vw, 1.25rem);
+}
+
+.navbar .links li a {
+  color: white;
+  -webkit-text-decoration: white;
+          text-decoration: white;
+}
+
+.navbar .links li.icon {
+  padding-block: 0.25rem;
+}
+
+@media screen and (max-width: 768px) {
+  .desktop {
+    display: none;
+    visibility: hidden;
+  }
 }
 
 footer {
