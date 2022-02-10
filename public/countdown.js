@@ -4,7 +4,7 @@ const minutesDOM = document.querySelector('.minutes');
 const secondsDOM = document.querySelector('.seconds');
 
 const currDate = new Date();
-const releaseDate = new Date('3/1/2022')
+const releaseDate = new Date('3/6/2022')
 
 let diffTime = Math.floor(Math.abs(releaseDate - currDate) / 1000);
 
