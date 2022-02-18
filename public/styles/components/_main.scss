@@ -13,10 +13,17 @@
 	}
 
 	.card-section {
-		margin-block: 0 5rem;
+		// margin-block: 0 5rem;
 		padding-inline: 1rem;
-		border-block: 1px solid $dark-background;
+		border-bottom: 1px solid $dark-background;
 		background-color: #00000005;
+		&:first-of-type {
+			border-block: 1px solid $dark-background;
+		}
+		&:last-of-type {
+			border: none;
+			margin-bottom: 2rem;
+		}
 	}
 
 	.container-title {

@@ -5,13 +5,9 @@ const productSchema = new mongoose.Schema({
         type: String,
         required: [true, "Must Provide A Name."]
     },
-    card_image: {
-        type: String,
-        required: [true, "Must Provide An Image."]
-    },
-    content: {
+    resources: {
         type: Array,
-        required: [true, "Must Provide Content."]
+        required: [true, "Must Provide Resources."]
     }
 })
 //This is basic validation not advanced

@@ -1,0 +1,20 @@
+.notfound-container {
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	h1 {
+		color: $almost-black;
+		font-size: clamp(1.5rem, 6vw, 3rem);
+		text-align: center;
+	}
+	a {
+		padding: 0.75rem 1rem;
+		border-radius: $radius;
+		background-color: $accent-blue;
+		text-decoration: none;
+		color: $almost-white;
+	}
+}

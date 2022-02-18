@@ -1,154 +1,261 @@
 [
     {
-        "name": "Being Single",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
-        "content": [
+        "name": "Love and Marriage",
+        "resources": [
             {
-                "class": "banner-header",
-                "headers": ["Being Single"],
-                "paragraphs": []
-            },
-            {
-                "class": "paragraph-container",
-                "headers": ["should you pursue marriage?"],
-                "paragraphs": [
-                    "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
-                    "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
+                "name": "Being Single",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+                "content": [
+                    {
+                        "class": "banner-header",
+                        "headers": ["Being Single"],
+                        "paragraphs": [],
+                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg"]
+                    },
+                    {
+                        "class": "paragraph-container",
+                        "headers": ["should you pursue marriage?"],
+                        "paragraphs": [
+                            "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
+                            "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "banner-divider",
+                        "headers": ["in order to evaluate your situation, ask yourself two questions:"],
+                        "paragraphs": [],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": [
+                            "Question #1",
+                            "Have I been stalled?"
+                        ],
+                        "paragraphs": [
+                            "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
+                            "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
+                            "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": [
+                            "Question #2",
+                            "to what am i called?"
+                        ],
+                        "paragraphs": [
+                            "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
+                            "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
+                            "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
+                            "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
+                            "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
+                        ],
+                        "background": [false, ""]
+                    }
                 ]
             },
             {
-                "class": "banner-divider",
-                "headers": ["in order to evaluate your situation, ask yourself two questions:"],
-                "paragraphs": []
-            },
-            {
-                "class": "section-card",
-                "headers": [
-                    "Question #1",
-                    "Have I been stalled?"
-                ],
-                "paragraphs": [
-                    "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
-                    "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
-                    "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                "name": "Hope To Marry",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Hope-To-Marry.jpg",
+                "content": [
+                    {
+                        "class": "banner-header",
+                        "headers": ["Hope To Marry"],
+                        "paragraphs": [],
+                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Hope-To-Marry.jpg"]
+                    },
+                    {
+                        "class": "paragraph-container",
+                        "headers": ["Pursuing Marriage"],
+                        "paragraphs": [
+                            "Most of us are called to marriage. It's the natural design for fulfilling our drive for companionship and sexuality.",
+                            "If you are not called to celibacy and service (1 Corinthians 7) then a significant priority for this season of your life is preparing for and moving toward a Biblical marriage. An intentional path to finding a mate recognizes that God is at work. We also have a responsibility to be faithful in our part of the process."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "banner-divider",
+                        "headers": ["How does a person who hopes to marry become intentional?"],
+                        "paragraphs": [],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 1", "Seek direction within christian community"],
+                        "paragraphs": [
+                            "We live in a day of hyper individualism where people feel very little sense of obligation to others.",
+                            "God calls us, however, to vibrant community within our families and within the body of Christ. That community is the source for much of our growth as Christians, and it’s one of the best means for meeting a potential spouse and receiving guidance and support toward marriage.",
+                            "Marriage experts still consider matches made by friends, family and churches to be among the best."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 2", "Move beyond recreational relationships"],
+                        "paragraphs": [
+                            "One of the clearest messages for singles in the Bible is the call to sexual purity (1 Corinthians 6:13-18, Ephesians 5:3 and Colossians 3:5).",
+                            "That is proving to be a difficult challenge in a day when only a quarter of Christians are virgins when they marry. Sexual purity, however, is the primary means for intentionally moving toward marriage in a recreational relationship culture.",
+                            "Couples who stay sexually pure honor God and avoid much of the confusion that plagues many of today’s relationships."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 3", "seek the right mate"],
+                        "paragraphs": [
+                            "A study by the National Marriage Project found that 94% of young adults believe the person they marry should be their soul mate first and foremost. That pursuit leaves many looking in vain for the perfect person who is specially designed to complete them.",
+                            "The Bible and marriage research tell us that the more important “soul” mate to seek out is someone who shares your spiritual commitment. Paul writes in his letter to the Corinthians that a potential spouse “must belong to the Lord” (1 Corinthians 7:39).",
+                            "Singles should seek someone with whom they are able to serve God better together than apart. Christians seeking a mate who shares his or her Biblical values know that “all have fallen short” so there’s no sense in holding out for a perfect person.",
+                            "Further, they know that instead of seeking someone to complete them, they are called to lay down their life for another. That makes for a much more realistic path to finding a good fit for marriage."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 4", "be proactive"],
+                        "paragraphs": [
+                            "Living in purity and Christian community makes it easier to find a mate who shares your spiritual values, but there’s more you can do as a steward of your future marriage (Matthew 25:14-27). Titus 2 strongly encourages young men and women to learn from older men and women.",
+                            "In addition to Christian discipleship, you also can ask mentors for candid feedback about how you can improve in a variety of areas to be more prepared for marriage. Additionally, there’s nothing wrong with asking mentors to keep you in mind as they become aware of other singles seeking a Godly spouse. Some of your best opportunities to be proactive will grow out of faithful prayer.",
+                            "As you pray about your role in finding a mate, for the single men and women in your life, for the help of parents and mentors and for God’s glory in your path to the altar – He will open your eyes to opportunities you may have missed to take proactive steps toward marriage. It’s important to note that men have a distinct responsibility in proactively finding a mate. Genesis 2:24 says that a man will leave his parents and cleave to his wife. Proverbs 18:22 says, “He who finds a wife, finds what is good and receives favor from the Lord.” Notice it doesn’t say “he who stumbles over a wife” as if it is a happenstance occurrence.",
+                            "God calls men to do their part in seeking out women of character and showing leadership in pursuing a woman for marriage. Specifically, men should be willing to take the risk of rejection which requires a measure of faith and leadership."
+                        ],
+                        "background": [false, ""]
+                    }
                 ]
             },
             {
-                "class": "section-card",
-                "headers": [
-                    "Question #2",
-                    "to what am i called?"
-                ],
-                "paragraphs": [
-                    "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
-                    "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
-                    "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
-                    "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
-                    "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
-                ]
+                "name": "Living Together",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Living-Together.jpg",
+                "content": []
+            },
+            {
+                "name": "Engaged - Getting Ready For Marriage",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Engaged-%E2%80%93-Getting-Ready-For-Marriage.jpg",
+                "content": []
+            },
+            {
+                "name": "Building a Strong Marriage",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/strong-marriage.jpg",
+                "content": []
+            },
+            {
+                "name": "Sexual Intimacy",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Sexual-Intimacy.jpg",
+                "content": []
+            },
+            {
+                "name": "Considering Children",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Considering-Children.jpg",
+                "content": []
+            },
+            {
+                "name": "Preparing For a Baby",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Preparing-For-Baby.jpg",
+                "content": []
+            },
+            {
+                "name": "A Difficult Marriage",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/difficult-marriage.jpg",
+                "content": []
+            },
+            {
+                "name": "The Empty Nest",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/The-Empty-Nest.jpg",
+                "content": []
             }
         ]
     },
     {
-        "name": "Hope To Marry",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Hope-To-Marry.jpg",
-        "content": [
+        "name": "Parenting",
+        "resources": [
             {
-                "class": "banner-header",
-                "headers": ["Hope To Marry"],
-                "paragraphs": []
+                "name": "Intentional Parenting",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Intentional-Parenting.jpg",
+                "content": []
             },
             {
-                "class": "paragraph-container",
-                "headers": ["Pursuing Marriage"],
-                "paragraphs": [
-                    "Most of us are called to marriage. It’s the natural design for fulfilling our drive for companionship and sexuality.",
-                    "If you are not called to celibacy and service (1 Corinthians 7) then a significant priority for this season of your life is preparing for and moving toward a Biblical marriage. An intentional path to finding a mate recognizes that God is at work. We also have a responsibility to be faithful in our part of the process."
-                ]
+                "name": "Discipline With Young Children",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Discipline-With-Young-Children.jpg",
+                "content": []
             },
             {
-                "class": "banner-divider",
-                "headers": ["How does a person who hopes to marry become intentional?"],
-                "paragraphs": []
+                "name": "Single Parent",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Single-Parent.jpg",
+                "content": []
             },
             {
-                "class": "section-card",
-                "headers": ["Step 1", "Seek direction within christian community"],
-                "paragraphs": [
-                    "We live in a day of hyper individualism where people feel very little sense of obligation to others.",
-                    "God calls us, however, to vibrant community within our families and within the body of Christ. That community is the source for much of our growth as Christians, and it’s one of the best means for meeting a potential spouse and receiving guidance and support toward marriage.",
-                    "Marriage experts still consider matches made by friends, family and churches to be among the best."
-                ]
+                "name": "Blending Families",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/blended-family.jpg",
+                "content": []
             },
             {
-                "class": "section-card",
-                "headers": ["Step 2", "Move beyond recreational relationships"],
-                "paragraphs": [
-                    "One of the clearest messages for singles in the Bible is the call to sexual purity (1 Corinthians 6:13-18, Ephesians 5:3 and Colossians 3:5).",
-                    "That is proving to be a difficult challenge in a day when only a quarter of Christians are virgins when they marry. Sexual purity, however, is the primary means for intentionally moving toward marriage in a recreational relationship culture.",
-                    "Couples who stay sexually pure honor God and avoid much of the confusion that plagues many of today’s relationships."
-                ]
+                "name": "Adoption and Foster Care",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/adoption.jpg",
+                "content": []
             },
             {
-                "class": "section-card",
-                "headers": ["Step 3", "seek the right mate"],
-                "paragraphs": [
-                    "A study by the National Marriage Project found that 94% of young adults believe the person they marry should be their soul mate first and foremost. That pursuit leaves many looking in vain for the perfect person who is specially designed to complete them.",
-                    "The Bible and marriage research tell us that the more important “soul” mate to seek out is someone who shares your spiritual commitment. Paul writes in his letter to the Corinthians that a potential spouse “must belong to the Lord” (1 Corinthians 7:39).",
-                    "Singles should seek someone with whom they are able to serve God better together than apart. Christians seeking a mate who shares his or her Biblical values know that “all have fallen short” so there’s no sense in holding out for a perfect person.",
-                    "Further, they know that instead of seeking someone to complete them, they are called to lay down their life for another. That makes for a much more realistic path to finding a good fit for marriage."
-                ]
+                "name": "Raising a Child With Special Needs",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Raising-a-Child-With-Special-Needs.jpg",
+                "content": []
             },
             {
-                "class": "section-card",
-                "headers": ["Step 4", "be proactive"],
-                "paragraphs": [
-                    "Living in purity and Christian community makes it easier to find a mate who shares your spiritual values, but there’s more you can do as a steward of your future marriage (Matthew 25:14-27). Titus 2 strongly encourages young men and women to learn from older men and women.",
-                    "In addition to Christian discipleship, you also can ask mentors for candid feedback about how you can improve in a variety of areas to be more prepared for marriage. Additionally, there’s nothing wrong with asking mentors to keep you in mind as they become aware of other singles seeking a Godly spouse. Some of your best opportunities to be proactive will grow out of faithful prayer.",
-                    "As you pray about your role in finding a mate, for the single men and women in your life, for the help of parents and mentors and for God’s glory in your path to the altar – He will open your eyes to opportunities you may have missed to take proactive steps toward marriage. It’s important to note that men have a distinct responsibility in proactively finding a mate. Genesis 2:24 says that a man will leave his parents and cleave to his wife. Proverbs 18:22 says, “He who finds a wife, finds what is good and receives favor from the Lord.” Notice it doesn’t say “he who stumbles over a wife” as if it is a happenstance occurrence.",
-                    "God calls men to do their part in seeking out women of character and showing leadership in pursuing a woman for marriage. Specifically, men should be willing to take the risk of rejection which requires a measure of faith and leadership."
-                ]
+                "name": "Schooling Options",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Schooling-Options.jpg",
+                "content": []
+            },
+            {
+                "name": "Preparing Your Child For Adolescence",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Preparing-Your-Child-For-Adolescence.jpg",
+                "content": []
+            },
+            {
+                "name": "Launching Young Adults",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Launching-Young-Adults.jpg",
+                "content": []
+            },
+            {
+                "name": "Influencing Grandchildren",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Influencing-Grandchildren.jpg",
+                "content": []
             }
         ]
     },
     {
-        "name": "Living Together",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Living-Together.jpg",
-        "content": []
-    },
-    {
-        "name": "Engaged - Getting Ready For Marriage",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Engaged-%E2%80%93-Getting-Ready-For-Marriage.jpg",
-        "content": []
-    },
-    {
-        "name": "Building a Strong Marriage",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/strong-marriage.jpg",
-        "content": []
-    },
-    {
-        "name": "Sexual Intimacy",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Sexual-Intimacy.jpg",
-        "content": []
-    },
-    {
-        "name": "Considering Children",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Considering-Children.jpg",
-        "content": []
-    },
-    {
-        "name": "Preparing For a Baby",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Preparing-For-Baby.jpg",
-        "content": []
-    },
-    {
-        "name": "A Difficult Marriage",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/difficult-marriage.jpg",
-        "content": []
-    },
-    {
-        "name": "The Empty Nest",
-        "card_image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/The-Empty-Nest.jpg",
-        "content": []
+        "name": "Special Situations",
+        "resources": [
+            {
+                "name": "Addiction",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/addiction.jpg",
+                "content": []
+            },
+            {
+                "name": "An Unplanned Pregnancy",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/unplanned-pregnancy.jpg",
+                "content": []
+            },
+            {
+                "name": "Facing Infertility",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Facing-Infertility.jpg",
+                "content": []
+            },
+            {
+                "name": "Grieving",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Grieving.jpg",
+                "content": []
+            },
+            {
+                "name": "Caring For An Aging Loved One",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Caring-For-An-Aging-Loved-One.jpg",
+                "content": []
+            },
+            {
+                "name": "Family Finances",
+                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Family-Finances.jpg",
+                "content": []
+            }
+        ]
     }
 ]

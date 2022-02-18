@@ -1,10 +1,15 @@
 .card {
-	background-color: $accent-blue;
+	background-color: $image-background;
 
 	width: 100%;
 	aspect-ratio: 16 / 9;
 
 	position: relative;
+
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-blend-mode: overlay;
+	background-size: cover;
 	img {
 		display: block;
 		min-height: 100%;

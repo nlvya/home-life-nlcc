@@ -17,11 +17,12 @@ app.use(express.static("./public"));
 // app.use(notFoundHandler)
 // app.use(errorHandler)
 
+const port = process.env.PORT || 3000;
+
 app.get('/resource', (req, res) => {
+    console.log(__dirname)
     res.sendFile(path.resolve(__dirname, './public/resources.html'));
 })
-
-const port = process.env.PORT || 5000;
 
 // app.listen(port, () => {
 //     console.log(`Server is listening on port ${port}`)

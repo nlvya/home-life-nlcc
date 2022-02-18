@@ -9,6 +9,7 @@ const populateProducts = async () => {
     try {
         await connectDB(process.env.MONGO_URI);
         await Resource.deleteMany()
+        console.log(resources)
         await Resource.create(resources)
         console.log('Success!!!!')
     } catch (error) {
