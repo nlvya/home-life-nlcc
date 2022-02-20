@@ -8,17 +8,17 @@ const showCards = async () => {
         console.log(resources)
 
         const resourceSectionsHTML = resources.map(resourceSection => {
-            const {name, resources: resourcesList} = resourceSection;
+            const {name, resources: resourcesList, _id: id} = resourceSection;
             console.log(name, resourcesList);
             return `
                 <section class="card-section" id="${name.split(' ').join('-').toLowerCase()}">
                     <h1 class="container-title">${name}</h1>
                     <div class="card-container">
                         ${resourcesList.map(resource => {
-                            const {name, image, _id: id} = resource;
+                            const {name, image, id: resourceNaem} = resource;
                             return `
                                 <div class="card" style='background-image: url(${image})'>
-                                    <a href="/resource?id=${id}">
+                                    <a href="/resource?id=${id}&name=${resourceNaem}">
                                         <h1 class="card-title">${name}</h1>
                                     </a>
                                 </div>
