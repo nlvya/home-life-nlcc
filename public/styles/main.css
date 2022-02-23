@@ -361,7 +361,7 @@ body {
   color: #fff;
 }
 
-.navbar ul div .nav-item a {
+.navbar ul div .nav-item {
   display: block;
   color: #fff;
   font-weight: 500;
@@ -370,12 +370,23 @@ body {
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
+  cursor: pointer;
 }
 
-.navbar ul div .nav-item a.link:hover {
+.navbar ul div .nav-item.link:hover {
   background-color: #0a0d0f66;
   -webkit-transition: background-color 100ms linear;
   transition: background-color 100ms linear;
+}
+
+.navbar ul div .nav-item.icon {
+  padding: 0;
+}
+
+.navbar ul div .nav-item.icon a {
+  padding: 1rem 1.5rem;
+  display: block;
+  color: #fff;
 }
 
 .navbar ul div .title {

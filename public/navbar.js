@@ -6,3 +6,11 @@ menuButtonDOM.addEventListener('click', () => {
     linksDivDOM.classList.toggle("closed");
     barsDOM.classList.toggle("open");
 })
+
+const scrollToElement = (elementId) => {
+    const element = document.querySelector(elementId);
+    console.log(element)
+    // scroll to element
+    element.scrollIntoView({ behavior: 'smooth', block: 'start'});
+    element.scrollTop -= 100;
+}
