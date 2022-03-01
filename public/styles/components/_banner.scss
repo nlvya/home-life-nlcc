@@ -2,12 +2,12 @@
 	max-height: 30rem;
 	display: flex;
 	justify-content: flex-end;
-	align-items: flex-end;
+	align-items: center;
 	overflow: hidden;
 
 	position: relative;
 	img {
-		// transform: translateY(10rem);
+		// transform: translateY(-15rem);
 		filter: brightness(0.7);
 		width: 100%;
 	}

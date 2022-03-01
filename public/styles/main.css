@@ -173,7 +173,8 @@ input[type='button'] {
 }
 
 /* Other Colors used */
-body {
+body,
+html {
   background: #f1f2f6;
   font-family: 'Roboto', 'sans-serif';
   min-height: 100vh;
@@ -389,6 +390,10 @@ body {
   color: #fff;
 }
 
+.navbar ul div a {
+  text-decoration: none;
+}
+
 .navbar ul div .title {
   display: -ms-grid;
   display: grid;
@@ -440,9 +445,18 @@ body {
   }
   .navbar ul .links .nav-item {
     background-color: #004891;
+    width: 100%;
+  }
+  .navbar ul .links .nav-item:hover {
+    background-color: #004891 !important;
+    -webkit-filter: brightness(0.9);
+            filter: brightness(0.9);
   }
   .navbar ul .links .nav-item a {
+    display: block;
     width: 100%;
+    color: currentColor;
+    text-decoration: none;
   }
   .navbar ul .links .link {
     background-color: #004891;
@@ -609,9 +623,9 @@ footer p {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   overflow: hidden;
   position: relative;
 }

@@ -50,6 +50,10 @@
 					}
 				}
 			}
+
+			a {
+				text-decoration: none;
+			}
 			.title {
 				display: grid;
 				place-items: center;
@@ -92,8 +96,16 @@
 			flex-direction: column;
 			.nav-item {
 				background-color: $accent-blue-light;
+				width: 100%;
+				&:hover {
+					background-color: $accent-blue-light !important;
+					filter: (brightness(0.9));
+				}
 				a {
+					display: block;
 					width: 100%;
+					color: currentColor;
+					text-decoration: none;
 				}
 			}
 			.link {
