@@ -28,18 +28,31 @@
 					color: $clr-white;
 				}
 			}
-			.nav-item a {
+			.nav-item {
 				display: block;
 				color: $clr-white;
 				font-weight: 500;
 				text-decoration: none;
 				padding: 1rem 1.5rem;
 				width: max-content;
+				cursor: pointer;
 				&.link:hover {
 					background-color: $transparent-dark;
 
 					transition: background-color 100ms linear;
 				}
+				&.icon {
+					padding: 0;
+					a {
+						padding: 1rem 1.5rem;
+						display: block;
+						color: $clr-white;
+					}
+				}
+			}
+
+			a {
+				text-decoration: none;
 			}
 			.title {
 				display: grid;
@@ -83,8 +96,16 @@
 			flex-direction: column;
 			.nav-item {
 				background-color: $accent-blue-light;
+				width: 100%;
+				&:hover {
+					background-color: $accent-blue-light !important;
+					filter: (brightness(0.9));
+				}
 				a {
+					display: block;
 					width: 100%;
+					color: currentColor;
+					text-decoration: none;
 				}
 			}
 			.link {
