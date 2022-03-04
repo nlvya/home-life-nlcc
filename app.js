@@ -3,7 +3,7 @@ const app = express();
 const path = require('path');
 const resources = require('./routes/resourceRoutes');
 const connectDB = require('./db/connect');
-// const populateProducts = require('./populate');
+const populateProducts = require('./populate');
 require('dotenv').config();
 //middleware functions
 // const notFoundHandler = require('./middleware/notFound')
@@ -31,7 +31,7 @@ app.get('/resource', (req, res) => {
 const start = async () => {
     try {
         await connectDB(process.env.MONGO_URI);
-        // await populateProducts()
+        await populateProducts()
         app.listen(port, console.log(`server is listening on port ${port}`));
     } catch (error) { console.log(error) }
 }

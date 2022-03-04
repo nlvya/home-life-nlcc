@@ -19,8 +19,9 @@ const showResource = async () => {
         const resourceHTML = content.map(elem => {
             console.log('new elem')
             const {class: className, headers, paragraphs, background} = elem;
+            console.log(background)
             return `
-                <div class="${className}" ${background[0] ? `style='background-image: url(${image})'` : ''}>
+                <div class="${className}" ${background[0] ? `style='background-image: url(${background[1]})'` : ''}>
                     ${headers.map(head => {
                         return `
                             <h1>${head}</h1>

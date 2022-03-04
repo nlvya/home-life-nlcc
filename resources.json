@@ -4,13 +4,13 @@
         "resources": [
             {
                 "name": "Being Single",
-                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+                "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
                 "content": [
                     {
                         "class": "banner-header",
                         "headers": ["Being Single"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -66,7 +66,7 @@
                         "class": "banner-header",
                         "headers": ["Hope To Marry"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Hope-To-Marry.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_308266919.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -136,7 +136,7 @@
                         "class": "banner-header",
                         "headers": ["Living Together"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Living-Together.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_75568579.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -156,7 +156,7 @@
                     },
                     {
                         "class": "section-card",
-                        "headers": ["The Research"],
+                        "headers": ["The Research", ""],
                         "paragraphs": [
                             "Over 75% of young single adults include marriage as a significant life goal. Couples who move in together, however, actually decrease the possibility of creating a strong marriage.",
                             "The divorce rate among those who live together before marriage is 50% higher than it is among couples who don’t. Extensive research conducted by University professor and psychologist Dr. Scott Stanley revealed that couples who live together undermine a strong bond by trying to keep their options open. While many of these couples eventually slide into marriage, their relationships demonstrate the lowest marital satisfaction and survival rates and report higher rates of domestic violence and unfaithfulness.",
@@ -166,7 +166,7 @@
                     },
                     {
                         "class": "section-card",
-                        "headers": ["The Design"],
+                        "headers": ["The Design", ""],
                         "paragraphs": [
                             "The Bible teaches that God designed physical intimacy to occur exclusively within the sacred commitment of marriage where the powerful bonding effects of sexuality draw the man and woman closer together.",
                             "Outside of marriage, however, the bonding nature of sex confuses the relationship by implying a commitment that has not been made. Despite trying to avoid the pain of divorce, a breakup after sexual union creates similar emotional trauma.",
@@ -176,7 +176,7 @@
                     },
                     {
                         "class": "section-card",
-                        "headers": ["The Church"],
+                        "headers": ["The Church", ""],
                         "paragraphs": [
                             "Many couples first question the option of living together while exploring Christian faith or local church membership.",
                             "This church would love to become a resource for clarity and health in your relationship because we believe marriage is a God-ordained, sacred institution. In Ephesians 5:31-33 the Bible describes the marital bond as a picture of the love between Christ (the groom) and the church (His bride). It is much easier to nurture a strong marriage while learning and growing with other believers - especially those who are a little further down the road.",
@@ -196,7 +196,7 @@
                         "class": "banner-header",
                         "headers": ["Engaged: Getting Ready For Marriage"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Engaged-%E2%80%93-Getting-Ready-For-Marriage.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_683250577.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -263,7 +263,7 @@
                         "class": "banner-header",
                         "headers": ["Building A Strong Marriage"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/strong-marriage.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/wedding.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -340,7 +340,7 @@
                         "class": "banner-header",
                         "headers": ["Sexual Intimacy"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Sexual-Intimacy.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_1046127142.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -403,7 +403,7 @@
                         "class": "banner-header",
                         "headers": ["Considering Children"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Considering-Children.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/shutterstock_735971812.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -462,7 +462,7 @@
                         "class": "banner-header",
                         "headers": ["Preparing For A Baby"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Preparing-For-Baby.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_710258752.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -531,7 +531,7 @@
                         "class": "banner-header",
                         "headers": ["A Difficult Marriage"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/difficult-marriage.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/marriage-hero.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -599,7 +599,7 @@
                         "class": "banner-header",
                         "headers": ["The Empty Nest"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/The-Empty-Nest.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/empty-nest-header.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -656,33 +656,59 @@
         "resources": [
             {
                 "name": "Intentional Parenting",
-                "image": "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Intentional-Parenting.jpg",
+                "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/Intentional-Parenting.jpg",
                 "content": [
                     {
                         "class": "banner-header",
-                        "headers": ["Engaged: Getting Ready For Marriage"],
+                        "headers": ["Intentional Parenting"],
                         "paragraphs": [],
-                        "background": [true, ""]
+                        "background": [true, "https://faith-home.mycsbc.com/wp-content/uploads/2019/10/shutterstock_1428139997.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["Planning For Your Marriage"],
+                        "headers": ["Giving A Strong Spiritual Legacy"],
                         "paragraphs": [
-                            ""
+                            "If you are blessed with the gift of children, God has given you the most incredible opportunity and responsibility to help your child know, love and follow Jesus. Every believing parent hopes their child will embrace the faith and grow deep spiritual roots.",
+                            "Studies tell us that over half of those growing up in Christian homes will walk away from Christianity by the time they leave the teen years. One reason is that parents often “outsource” the spiritual formation of their children to the church.",
+                            "While a good church is very important, God designed the family to be the primary place where faith is nurtured."
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["How Do You Plan For Marriage?"],
+                        "headers": ["Guiding Principles"],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Learn From Others"],
+                        "headers": ["The Legacy Principle", ""],
                         "paragraphs": [
-                            ""
+                            "The scriptures tell us that what we do today directly influences the multi-generational cycle of family traits, beliefs and actions - for good or bad. (Exodus 20:5-6, Psalm 78:5-8). Passing a strong faith to our children begins by having a strong faith ourselves, modeling the gospel in our marriages and in how we relate to those closest to us. Some of us need to break negative cycles that may have started with our own upbringing in order to launch a new, improved legacy for the next generation."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["The Likelihood Principle", ""],
+                        "paragraphs": [
+                            "The good news is that in the context of healthy relationships, children tend to embrace the values of their parents. Proverbs 22:6 tells us that when children learn right from wrong at home under the nurturing, loving training of parents, they tend to adopt mom and dad’s beliefs. While there are no guarantees because every child has a free will, kids are far more likely to embrace their parent’s faith if they enjoy their parent’s company! This is a big part of the reason the Bible warns parents not to “provoke your children to wrath” but rather “bring them up in the training and admonition of the Lord” (Ephesians 6:4). Bottom line – a strong relationship with mom and dad is key to a strong Christian faith."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["The Lenses Principle", ""],
+                        "paragraphs": [
+                            "Jesus taught that our enemy’s primary weapon is deception - getting us to believe and live according to lies rather than truth (John 8:44). When someone is deceived, he or she doesn’t know it! Our children are growing up in a culture that often bombards them with lies. An hour or two per week at church is no match for the hundreds of hours spent with media, school, and friends. It cannot compete with a child’s fallen nature that often wants to rebel against what is good, true and beautiful. It is the job of parents to equip children with the corrective “lenses” of truth so they can better navigate the deceptive roads of life."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["The Learning Principle", ""],
+                        "paragraphs": [
+                            "Our children can only learn what we teach them in a manner that will reach them. In other words, we need to vary our approach based upon their unique personality, learning style, and most importantly, stage of development. Children fall into one of three stages that should guide the methods we choose for discussing our faith and values at home."
                         ],
                         "background": [false, ""]
                     }
@@ -697,7 +723,7 @@
                         "class": "banner-header",
                         "headers": ["Discipline With Young Children"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Discipline-With-Young-Children.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_520173301.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -756,7 +782,7 @@
                         "class": "banner-header",
                         "headers": ["Single Parent"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Single-Parent.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_1486445411.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -817,7 +843,7 @@
                         "class": "banner-header",
                         "headers": ["Blending Families"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/blended-family.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/family1.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -876,7 +902,7 @@
                         "class": "banner-header",
                         "headers": ["Exploring Adoption Or Foster Care"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/adoption.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/shutterstock_585707846-1.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -929,7 +955,7 @@
                         "class": "banner-header",
                         "headers": ["Children With Special Needs"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Raising-a-Child-With-Special-Needs.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_496167904.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -989,7 +1015,7 @@
                         "class": "banner-header",
                         "headers": ["Schooling Options"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Schooling-Options.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_388630444.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -1067,7 +1093,7 @@
                         "class": "banner-header",
                         "headers": ["Preparing Your Child For Adolescence"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Preparing-Your-Child-For-Adolescence.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_1169506729.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -1129,7 +1155,7 @@
                         "class": "banner-header",
                         "headers": ["Launching Young Adults"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Launching-Young-Adults.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_1193722840.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -1192,7 +1218,7 @@
                         "class": "banner-header",
                         "headers": ["Influencing Grandchildren"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/Influencing-Grandchildren.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/gparents.jpg"]
                     },
                     {
                         "class": "paragraph-container",
@@ -1248,11 +1274,11 @@
                         "class": "banner-header",
                         "headers": ["Addressing Addiction In The Family"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/addiction.jpg"]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/hero1.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["What To Look For", "Know The Warning Signs"],
+                        "headers": ["Know The Warning Signs"],
                         "paragraphs": [
                             "Does someone you love seem to be self-destructing in addictive behavior? Are you watching a spouse, son or daughter abandon everything once important to them because of drugs, alcohol, sex or some other stimulant?",
                             "An addiction or dependence is commonly defined as “a recurring compulsion to do the same thing over and over, despite harmful consequences to his health, mental state or social life.” Are you seeing that trade-off in someone you care about – a compulsive pursuit regardless of the effects it has, especially on your relationship?",
@@ -1305,27 +1331,44 @@
                         "class": "banner-header",
                         "headers": ["An Unplanned Pregnancy"],
                         "paragraphs": [],
-                        "background": [true, "https://www.myfamilyseason.com/wp-content/uploads/2019/11/unplanned-pregnancy.jpg"]
+                        "background": [true, "https://fertilityfoundationoftexas.org/wp-content/uploads/2018/08/partners-1200x615.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["An Unplanned Pregnancy"],
+                        "headers": ["Choosing The Best For You And Your Baby"],
                         "paragraphs": [
-                            "Don't Have Sex Before Marriage lol"
+                            "Even if you’ve always believed that life is precious and that babies deserve the chance to live, experiencing an unplanned pregnancy yourself can be overwhelming. You find that it’s more complex than just a yes or no decision. All the things that are at stake, added to the hormones that are likely affecting your emotions, can leave you feeling confused and afraid."
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["The My Family Season Website Is Broken"],
+                        "headers": ["Things To Consider"],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Use Your Head"],
+                        "headers": ["Consideration #1", "The Gift of Life"],
                         "paragraphs": [
-                            "bruh"
+                            "Every human life has value regardless of the circumstances. That goes for you and your baby. You were both created in the image of God and were fearfully and wonderfully made. All of your days were written in God’s book before one of them came to be (Psalm 139:13-16). Even though you don’t know your future or the future of this baby’s life, your decisions affect both. Pray that God will help you make choices that preserve His best for both of you - to allow you both to experience the full life He offers. As Jesus said, “The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full” (John 10:10)."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Consideration #2", "The Responsibilities Ahead"],
+                        "paragraphs": [
+                            "Choosing to give birth to your baby is a heroic step. But that’s just the beginning. Now you must decide who will raise this child. There is great responsibility involved in caring for a child in both the short- and long-term. Being a parent means learning to lay down your life as a servant for your child (Philippians 2:3-7). Many mothers choose to take on this responsibility alone. Single mothers usually find, however, that the responsibilities are greater than they ever imagined and there will be a need for additional support.",
+                            "If you hope to raise this child yourself, you should pray about where the child’s father fits in. A father can make all the difference in a child’s life - for better or worse. Often, an unplanned pregnancy can uncover a man’s true character and make it clear whether or not he has the courage and discipline to be a good husband or father. There are times, however, when the father of your child can still become the man you and your child need. With dependency on the Lord, a lot of work and Biblical counsel, it’s possible to make an unplanned family work."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Consideration #3", "The Hope of Redemption"],
+                        "paragraphs": [
+                            "God is in the business of turning situations that feel like a mess into “happily ever after” stories. Having your child’s father commit to the long-term responsibilities of marriage and parenting can provide a hopeful story of redemption. When that’s not the case, however, the best hope for your child may be adoption by parents who are prepared for the responsibilities ahead. There can be great heartache in holding your new baby and then handing it over to someone else, but it’s often the best choice you can make for your child’s future. It also can be an answer to prayer for the couple who hopes to adopt children."
                         ],
                         "background": [false, ""]
                     }
@@ -1338,29 +1381,52 @@
                 "content": [
                     {
                         "class": "banner-header",
-                        "headers": ["Engaged: Getting Ready For Marriage"],
+                        "headers": ["Facing Infertility"],
                         "paragraphs": [],
-                        "background": [true, ""]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_631176950.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["Planning For Your Marriage"],
+                        "headers": ["Facing Infertility"],
                         "paragraphs": [
-                            ""
+                            "The journey of infertility can often be a time of overwhelming heartache, disappointment, and grief.",
+                            "Whatever feelings you may be experiencing, you need to remind yourself of several important truths."
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["How Do You Plan For Marriage?"],
+                        "headers": ["Some Important Truths..."],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Learn From Others"],
+                        "headers": ["Truth #1", "It's Ok To Hope"],
                         "paragraphs": [
-                            ""
+                            "Because of God’s goodness, you are never without hope. Psalm 113:9 says, “He settles the barren woman in her home as a happy mother of children.”",
+                            "You can’t know exactly how God will choose to work in your life, but you can know He is able. He can restore fertility when it seems impossible. Or He may help you grieve your inability to have biological children and then cultivate in you a desire to adopt and love a child in desperate need of a Christian home. Your ability to hope in God begins by releasing everything to Him in prayer. In Philippians 4:6-7, Paul wrote:",
+                            "“Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.”"
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Truth #2", "It's Ok To Grieve"],
+                        "paragraphs": [
+                            "Hoping to offer comfort, some may downplay infertility and even point to the things you can enjoy as a couple without kids. If you already have at least one child, some people may not understand why you would be so sad about secondary infertility, ending your hopes for more children.",
+                            "Whatever your circumstances, it’s common to experience a great sense of loss in finding out you can’t have a child. Jesus told his followers that those who mourn are blessed and will be comforted (Matthew 5:4).",
+                            "A husband may not entirely understand what a wife facing infertility is going through, especially as her emotions are affected by changing hormones. This can be a vulnerable time for any couple. It’s important to share your thoughts and feelings openly, not stuffing them or letting your grief get lost in distractions and busyness."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Truth #3", "It's Essential To Be In Community"],
+                        "paragraphs": [
+                            "It’s tempting to avoid talking about infertility and all the accompanying struggles.",
+                            "Couples may want to pull away from other families, unsure what they’ll think or say. As hard as it may be, however, you still need Christian community – a safe place where you can “share your burdens with one another” (Galatians 6:2). It’s in community that you also can find encouragement from others who have been where you are. That’s the context of 2 Corinthians 1:3-4",
+                            "“Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort who comforts us in all our troubles so that we can comfort those in any trouble with the comfort we ourselves have received from God.”"
                         ],
                         "background": [false, ""]
                     }
@@ -1373,29 +1439,73 @@
                 "content": [
                     {
                         "class": "banner-header",
-                        "headers": ["Engaged: Getting Ready For Marriage"],
+                        "headers": ["Grieving"],
                         "paragraphs": [],
-                        "background": [true, ""]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_1437577733.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["Planning For Your Marriage"],
+                        "headers": ["Understanding Grief"],
                         "paragraphs": [
-                            ""
+                            "Nothing hurts like losing someone you love due to death, divorce, or separation.",
+                            "Similar feelings often surface after a major life change such as job loss or a move. The ache inside can feel as if your soul will crush under the weight of a deep, paralyzing sorrow. You may find yourself asking how a loving God could allow such a painful thing to happen. The dull sadness often bleeds into denial or anger. Grief is unpredictable, affecting each of us in slightly different ways.",
+                            "While it may not ease the pain, understanding that grief is normal can help us cope a little better when we lose a special person or go through a significant change."
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["How Do You Plan For Marriage?"],
+                        "headers": ["Some Helpful Advice"],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Learn From Others"],
+                        "headers": ["How Grief Feels", ""],
                         "paragraphs": [
-                            ""
+                            "If you feel like you are losing your grip on reality, you might be a perfectly sane person enduring the confusion of grief.",
+                            "Perhaps you suffer irrational fear, dread or even paranoia. You may feel empty or numb like you are in shock. Grief even causes some people to experience trembling, nausea, breathing difficulty, muscle weakness, loss of appetite or insomnia. Feelings of anger can also surface, even if there is nothing in particular to be angry about.",
+                            "Almost everyone tortures themselves with guilt by asking what they did wrong, how they might have prevented the loss, or some other form of self-condemnation. In short, grief makes us feel like our emotions have gone haywire because, in many ways, they have. Over time, however, you will regain a measure of equilibrium."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Why Grief Hurts", ""],
+                        "paragraphs": [
+                            "God gave us the gift of pain so that we can react when something goes wrong.",
+                            "We limp when a leg bone is out of joint to protect us from further damage. In similar manner, losing an important person or going through a significant change can cause our entire system to react as it recognizes that something is wrong.",
+                            "You might say that the confusing emotions and ache in the pit of your soul are part of grief’s “limp.” The more intimate the loss, the more severe your “limp” will be. The severity and length of your pain is a testimony to the value of the person lost or the importance of the situation that changed."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["What Grief Means", ""],
+                        "paragraphs": [
+                            "God made us for intimacy and life – not separation and death. When we grieve, our deepest selves declare that something is wrong with this broken world.",
+                            "Death, divorce and separation were not part of God’s original plan for humanity. The Bible tells us these things came into our experience as a result of disobedience when Adam and Eve ate the forbidden fruit. “For when you eat of it you will surely die” (Genesis 2:17).",
+                            "Ever since the day mankind left the perfection of paradise we have known something is wrong. Our bodies and emotions react against what should not be."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["How Grief Heals", ""],
+                        "paragraphs": [
+                            "Even though it may not feel like it, grief can be a source of great hope. Your reaction against what is wrong comes from a deep yearning for things to be made right. Loss can open us to ultimate wholeness and restoration.",
+                            "While grieving the death of his wife, C.S. Lewis asked, “What do people mean when they say, ‘I am not afraid of God because I know He is good?’ Have they never been to a dentist?” The dentist’s drill, while an instrument of intense pain, ultimately brings health. The drill of grief fosters healing in our lives by raising ultimate issues and eternal questions such as “Who is my true beloved?” and “Where is my real home?”",
+                            "As believers, we know that a much better day is coming when God himself will wipe every tear from our eyes. On that day “There will be no more death or mourning or crying or pain, for the old order of things has passed away” (Revelation 21:3-4)."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Children And Grief", ""],
+                        "paragraphs": [
+                            "If you have children impacted by the pain of a death, divorce, separation or change, it is important that you remain attentive to their needs.",
+                            "You are God’s gift to them as they endure a loss that may be beyond comprehension. It is not your role to explain why it has happened.",
+                            "It is your role to be an agent of comfort and grace, allowing them to experience the confusing emotions of grief in the safety of your patient company."
                         ],
                         "background": [false, ""]
                     }
@@ -1408,29 +1518,61 @@
                 "content": [
                     {
                         "class": "banner-header",
-                        "headers": ["Engaged: Getting Ready For Marriage"],
+                        "headers": ["Caring For An Aging Loved One"],
                         "paragraphs": [],
-                        "background": [true, ""]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/09/shutterstock_684072748.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["Planning For Your Marriage"],
+                        "headers": ["Caring For The Elderly"],
                         "paragraphs": [
-                            ""
+                            "All of us know that our parents, spouse and other family members will eventually grow old and face inevitable health challenges.",
+                            "We even understand that sickness and death are part of living in a fallen world. But we are never quite ready for these realities to hit our own loved ones – especially when a debilitating disease gradually robs them of a once active life or seeps away their memories.",
+                            "Forty percent of caregivers are also raising young children, living with the stress and heartache this family season can bring. It may become necessary to back out of other things in order to fulfill the primary calling to “be Jesus” by serving an aging loved one during their final days.",
+                            "Whether with a parent or a spouse, you can take steps to become proactive by understanding some of what this season will bring."
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["How Do You Plan For Marriage?"],
+                        "headers": ["Some Helpful Advice"],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Learn From Others"],
+                        "headers": ["Tip #1", "Lingering Grief"],
                         "paragraphs": [
-                            ""
+                            "Long before an aging spouse or parent takes their final breath you will experience an underlying grief as you observe their loss of vitality, strength, mental faculties and other traits that make them the person you love.",
+                            "Mixed with the physical and emotional exhaustion this season can bring – you may even feel yourself slipping into depression. Seek help to avoid allowing these feelings to overtake you and recognize that such emotions are normal and testify to just how valuable the person you are losing has been."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Tip #2", "Special Grace"],
+                        "paragraphs": [
+                            "The most common duties handled by caregivers are transportation, grocery shopping, household chores, help with medications, and assistance with bathing and dressing.",
+                            "Despite the humble nature of such activities, the majority of caregivers use words like “rewarding” and “happy” to describe the caregiving process. Clearly, God gives a special grace to those who humble themselves to serve the aging and ailing."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Tip #3", "Changing Roles"],
+                        "paragraphs": [
+                            "The care giving child gradually becomes the parent. The caregiving spouse is no longer able to rely on her husband’s strength or wife’s support.",
+                            "Primary caregivers can also encounter strained relationships with other members of the family who may expect input on or question difficult decisions. In one way or another, expect these relationships to change as a loved one’s health deteriorates requiring mutual grace as you communicate the best you can under the circumstances."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Tip #4", "Family Stress"],
+                        "paragraphs": [
+                            "For those who are married and raising their own children, caring for an aging loved one can add tremendous stress to the family dynamic.",
+                            "There is less time, less marital energy, less patience with childhood irresponsibility, and less ability to give everyone the attention they need. That’s why it is important to involve the whole family in the caregiving experience. (Even young children can hold a hand or give a hug!) Everyone will need God’s special grace, so be intentional about giving them opportunities to participate in what can be described as the ultimate family service project.",
+                            "If you are in the midst of this season, our prayer is that God will give you the strength and grace needed to face the prolonged grief and quiet sacrifices required."
                         ],
                         "background": [false, ""]
                     }
@@ -1443,29 +1585,54 @@
                 "content": [
                     {
                         "class": "banner-header",
-                        "headers": ["Engaged: Getting Ready For Marriage"],
+                        "headers": ["Family Finances"],
                         "paragraphs": [],
-                        "background": [true, ""]
+                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_538621282.jpg"]
                     },
                     {
                         "class": "paragraph-container",
-                        "headers": ["Planning For Your Marriage"],
+                        "headers": ["Your Family Finances"],
                         "paragraphs": [
-                            ""
+                            "The Bible has a lot to say about money and much that is specifically of value for someone trying to be intentional about family relationships.",
+                            "A financial treadmill of working and consuming can dominate your energy and thoughts to the degree that your good intentions for family relationships get squeezed out.",
+                            "How can you master your money in order to be intentional in other areas?",
+                            "How can you manage your money in such a way that it can aid rather than undermine your spiritual and relational goals?"
                         ],
                         "background": [false, ""]
                     },
                     {
                         "class": "banner-divider",
-                        "headers": ["How Do You Plan For Marriage?"],
+                        "headers": ["Steps You Can Take"],
                         "paragraphs": [],
                         "background": [false, ""]
                     },
                     {
                         "class": "section-card",
-                        "headers": ["Step 1", "Learn From Others"],
+                        "headers": ["Step 1", "Be Content And Faithful In Little"],
                         "paragraphs": [
-                            ""
+                            "We often think the answer to our money problems is to have a little more, but Solomon observed, “Whoever loves money never has money enough; whoever loves wealth is never satisfied with his income” (Ecclesiastes 5:10). The writer of Hebrews countered, “Keep your lives free from the love of money and be content with what you have, because God has said, ‘Never will I leave you; never will I forsake you.’” (Hebrews 13:5).",
+                            "Being content with what you have doesn’t mean God can’t bless you with more. Two of the servants in the parable of the talents in Matthew 25:14-30 learned the value of being faithful with whatever they had. To them the master said, “You have been faithful with a few things; I will put you in charge of many things.”",
+                            "We learn from this parable that God wants to see what we will do with a little before He will entrust us with more."
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 2", "Value Relationships Over Things"],
+                        "paragraphs": [
+                            "In Romans 13:8, the apostle Paul says, “Let no debt remain outstanding, except the continuing debt to love one another, for he who loves his fellow man has fulfilled the law.” Most Christian financial advisers stress the value in eliminating and staying out of debt as much as possible. The less debt you have, the more you’re able to focus on the “debt to love one another.”",
+                            "Focusing on relationships over things also can cause you to reconsider your purchasing and work decisions. Isaiah 55:2 asks the question, “Why spend money on what is not bread, and your labor on what does not satisfy?”",
+                            "Do you ever feel like you’re working hard to pay off debt for purchases that weren’t essential and didn’t even satisfy? How could you simplify your expenses and make them more consistent with your family priorities in this season of life?"
+                        ],
+                        "background": [false, ""]
+                    },
+                    {
+                        "class": "section-card",
+                        "headers": ["Step 3", "Reorient Your Fears And Desires"],
+                        "paragraphs": [
+                            "People with various relationship goals – wanting to get married, considering starting a family or wanting to help a child through a tough season – may not realize just how much those goals can be undermined by a consumer-driven culture playing on their fears and desires.",
+                            "God tells us we shouldn’t fear what the world fears (1 Peter 1:17 and 3:13-15) or desire what it desires (2 Peter 1:3-8). What would it look like in your life if you re-oriented your fears and desires toward God’s design? The more you look to Him for your security and provisions (1 Peter 5:7 and Philippians 4:19), the more you are directed to the eternal relationships around you (Ephesians 3:14-19 and John 13:34-35).",
+                            "Allowing God to redirect your fears and desires frees you up to invest in family and to give generously to other families who are praying for God’s provision.   "
                         ],
                         "background": [false, ""]
                     }
