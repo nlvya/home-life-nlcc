@@ -5,11 +5,11 @@ const url = "/api/v1/resources";
 const showCards = async () => {
     try {
         const { data: {resources} } = await axios.get(url);
-        console.log(resources)
+        // console.log(resources)
 
         const resourceSectionsHTML = resources.map(resourceSection => {
             const {name, resources: resourcesList, _id: id} = resourceSection;
-            console.log(name, resourcesList);
+            // console.log(name, resourcesList);
             return `
                 <section class="card-section" id="${name.split(' ').join('-').toLowerCase()}">
                     <h1 class="container-title">${name}</h1>

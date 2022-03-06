@@ -3,8 +3,8 @@ const resourceId = new URLSearchParams(params).get('id');
 const resourceName = new URLSearchParams(params).get('name');
 const url = "/api/v1/resources";
 
-console.log(resourceId)
-console.log(resourceName)
+// console.log(resourceId)
+// console.log(resourceName)
 
 const containerDOM = document.querySelector('#container');
 
@@ -17,9 +17,9 @@ const showResource = async () => {
         const resourceInfo = resources.filter((source) => { return source.id == resourceName })
         const {content, image} = resourceInfo[0];
         const resourceHTML = content.map(elem => {
-            console.log('new elem')
+            // console.log('new elem')
             const {class: className, headers, paragraphs, background} = elem;
-            console.log(background)
+            // console.log(background)
             return `
                 <div class="${className}" ${background[0] ? `style='background-image: url(${background[1]})'` : ''}>
                     ${headers.map(head => {

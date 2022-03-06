@@ -213,7 +213,7 @@ html {
   width: 100%;
   max-width: 800px;
   margin: 5rem auto;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .paragraph-container h1 {
@@ -226,7 +226,7 @@ html {
 }
 
 .paragraph-container p {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
   text-align: center;
   margin: 1rem;
@@ -277,11 +277,12 @@ html {
 }
 
 .section-card p {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.1rem;
-  text-align: center;
+  text-align: left;
   margin: 1rem auto;
   color: #636e72;
+  text-indent: 2em;
 }
 
 .notfound-container {
