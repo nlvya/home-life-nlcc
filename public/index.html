@@ -29,21 +29,38 @@
 
 </head>
 <body>
-    <nav class='navbar'>
-        <ul class="align-left">
-            <li><a href=""><img src='./assets/Home-Life-Banner.png' alt="Home Life - New Life Community Church, Peoria AZ" /></a></li>
-        </ul>
-        <ul class="align-right">
-            <!-- <li><a href="">Love and Marriage</a></li>
-            <li><a href="">Parenting</a></li>
-            <li><a href="">Special Situations</a></li>
-            <li><a href="">Intentionality Tools</a></li>
-            -->
-            <li><a href="https://www.newlifeonline.com/"><i class="material-icons home-icon">home</i></a></li>
+    <!-- navbar -->
+    <nav class="navbar">
+        <ul>
+            <div class="align-left">
+                <li class="nav-logo"><a href="/"><img src="./assets/Home-Life-Banner.png" alt="Home Life - New Life Community Church, Peoria AZ"></a>
+                </li>
+                <li class="menu-button"><button><i class="fas fa-bars"></i></button></li>
+            </div>
+            <div class="align-right links closed">
+                <li class="nav-item link" onclick="scrollToElement('#love-and-marriage')">Love and Marriage</li>
+                <li class="nav-item link" onclick="scrollToElement('#parenting')">Parenting</li>
+                <li class="nav-item link" onclick="scrollToElement('#special-situations')">Special Situations</li>
+                <li class="nav-item icon"><a href="https://www.newlifeonline.com/"><i class="material-icons home-icon">home</i></a></li>
+            </div>
         </ul>
     </nav>
 
-    <div class="countdown">
+    <div class="nav-spacer"></div>
+
+    <div class="banner-container">
+        <img src="./assets/home-background.png">
+        <!-- <h1 class="banner-title">For Your Home<br/>From Your Church</h1> -->
+    </div>
+
+    <section class="main-container">
+        <h1 class="body-title">Select any of the following that apply to find practical advice and ideas.</h1>
+    
+        <div class="sections-container"></div>
+
+    </section>
+
+    <!-- <div class="countdown">
         <h1 class="countdown-title">Website launch in:</h1>
         <ul class="counter">
             <li class="days"></li>
@@ -60,7 +77,7 @@
             
             <li class="seconds"></li>
         </ul>
-    </div>
+    </div> -->
 
 
 
@@ -76,7 +93,14 @@
         </ul>
         <p>© NEW LIFE COMMUNITY CHURCH  |  PEORIA, AZ  |  623-486-3737</p>
     </footer>
-
-    <script src="./countdown.js"></script>
+    
+    <!-- axios -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- other js files -->
+    <!-- <script src="./countdown.js"></script> -->
+    <script src="./navbar.js"></script>
+    <script src="./cardBuilder.js"></script>
 </body>
 </html>
