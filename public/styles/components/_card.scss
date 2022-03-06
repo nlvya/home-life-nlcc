@@ -10,6 +10,13 @@
 	background-repeat: no-repeat;
 	background-blend-mode: overlay;
 	background-size: cover;
+	border-radius: 0.25rem;
+
+	transition: box-shadow 100ms linear, transform 150ms ease;
+	&:hover {
+		box-shadow: 5px 5px 10px #00000077;
+		transform: translate(-2px, -2px);
+	}
 	img {
 		display: block;
 		min-height: 100%;
