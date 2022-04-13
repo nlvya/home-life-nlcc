@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('../partials/head'); %>
+<body>
+    <%- include('../partials/navbar'); %>
+
+    <div class="banner-container">
+        <img src="./assets/home-background.png">
+        <!-- <h1 class="banner-title">For Your Home<br/>From Your Church</h1> -->
+    </div>
+
+    <section class="main-container">
+        <h1 class="body-title">Select any of the following that apply to find practical advice and ideas.</h1>
+    
+        <div class="sections-container"></div>
+
+    </section>
+
+    <%- include('../partials/footer'); %>
+    
+    <!-- axios -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- other js files -->
+    <!-- <script src="./countdown.js"></script> -->
+    <script src="../scripts/navbar.js"></script>
+    <script src="../scripts/cardBuilder.js"></script>
+</body>
+</html>

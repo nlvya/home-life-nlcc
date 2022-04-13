@@ -1,32 +1,39 @@
 const express = require('express');
 const app = express();
-const path = require('path');
-const resources = require('./routes/resourceRoutes');
-const connectDB = require('./db/connect');
-const populateProducts = require('./populate');
-require('dotenv').config();
-//middleware functions
-// const notFoundHandler = require('./middleware/notFound')
-// const errorHandler = require('./middleware/errorHandler')
+
+//middleware
+app.use(express.json())
+require('dotenv').config()
+const session = require('express-session');
+const passport = require('passport');
+require('./middleware/Passport.js')(passport)
+// important packages
+app.use(session({
+    secret: 'secret',
+    resave: true,
+    saveUninitialized: true,
+}))
+app.use(passport.initialize());
+app.use(passport.session());
+app.use(express.json({ limit: '16MB' }));
+app.use(express.urlencoded({ extended: false }));
 
 app.use(express.json());
-app.use('/api/v1/resources', resources);
-app.use(express.static("./public"));
+// set the view engine to ejs
+app.set('view engine', 'ejs');
 
+app.use("/styles",express.static(__dirname + "/views/styles"));
+app.use("/scripts",express.static(__dirname + "/views/scripts"));
+app.use("/assets",express.static(__dirname + "/views/assets"));
 
-// app.use(notFoundHandler)
-// app.use(errorHandler)
+app.use('/', require('./routes/navigation'))
+app.use('/api/v1/resources', require('./routes/resourceRoutes'));
+app.use('/api/v1/user', require('./routes/loginRoutes.js'))
+
+const connectDB = require('./db/connect');
+const populateProducts = require('./populate');
 
 const port = process.env.PORT || 3000;
-
-app.get('/resource', (req, res) => {
-    console.log(__dirname)
-    res.sendFile(path.resolve(__dirname, './public/resources.html'));
-})
-
-// app.listen(port, () => {
-//     console.log(`Server is listening on port ${port}`)
-// })
 
 const start = async () => {
     try {
