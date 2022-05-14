@@ -17,6 +17,15 @@ app.use(passport.initialize());
 app.use(passport.session());
 app.use(express.json({ limit: '16MB' }));
 app.use(express.urlencoded({ extended: false }));
+// app.use(session()); // session middleware
+app.use(require('flash')());
+ 
+app.use((req, res, next) => {
+    // flash a message
+    res.locals.success_msg = req.flash('success_msg');
+    res.locals.error_msg = req.flash('error_msg');
+    next();
+})
 
 app.use(express.json());
 // set the view engine to ejs

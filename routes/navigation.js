@@ -1,7 +1,8 @@
 const express = require('express');
 const navigation = express.Router();
 //authentication middleware
-const {ensureAuthenticated} = require('../middleware/auth.js')
+const {ensureAuthenticated} = require('../middleware/auth.js');
+users = ['geddy', 'neil', 'alex'];
 
 //home page
 navigation.get('/', (req, res) => {
@@ -9,7 +10,7 @@ navigation.get('/', (req, res) => {
 })
 //log in page
 navigation.get('/login', (req, res) => {
-  res.render('pages/login')
+  res.render('pages/login', {expressFlash: req.flash('error_msg')})
 })
 
 navigation.get('/resource', function(req, res) {
