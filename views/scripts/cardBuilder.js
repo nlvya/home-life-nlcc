@@ -7,18 +7,22 @@ const showCards = async () => {
         const { data: {resources} } = await axios.get(url);
         // console.log(resources)
 
-        const resourceSectionsHTML = resources.map(resourceSection => {
-            const {name, resources: resourcesList, _id: id} = resourceSection;
+        const allCategories = [... new Set(resources.map(resource => resource.category))]
+
+        const resourceSectionsHTML = allCategories.map(resourceSection => {
+            const resourcesList = resources.filter(resource => resource.category == resourceSection)
+            // const {name, resources: resourcesList, _id: id} = resourceSection;
             // console.log(name, resourcesList);
             return `
-                <section class="card-section" id="${name.split(' ').join('-').toLowerCase()}">
-                    <h1 class="container-title">${name}</h1>
+                <section class="card-section" id="${resourceSection.split(' ').join('-').toLowerCase()}">
+                    <h1 class="container-title">${resourceSection}</h1>
                     <div class="card-container">
                         ${resourcesList.map(resource => {
-                            const {name, image, id: resourceNaem} = resource;
+                            console.log(resource)
+                            const {name, image, _id: id} = resource;
                             return `
                                 <div class="card" style='background-image: url(${image})'>
-                                    <a href="/resource?id=${id}&name=${resourceNaem}">
+                                    <a href="/resource?id=${id}">
                                         <h1 class="card-title">${name}</h1>
                                     </a>
                                 </div>

@@ -1,6 +1,5 @@
 const params = window.location.search
 const resourceId = new URLSearchParams(params).get('id');
-const resourceName = new URLSearchParams(params).get('name');
 const url = "/api/v1/resources";
 
 // console.log(resourceId)
@@ -10,12 +9,12 @@ const containerDOM = document.querySelector('#container');
 
 const showResource = async () => {
     try {
-        const { data: {resource} } = await axios.get(`${url}/${resourceId}?name=${resourceName}`)
-        const {resources} = resource;
+        console.log(resourceId)
+        const { data: {resource} } = await axios.get(`/api/v1/resources/${resourceId}`)
+        // const {resources} = resource;
+        console.log(resource)
         
-        
-        const resourceInfo = resources.filter((source) => { return source.id == resourceName })
-        const {content, image} = resourceInfo[0];
+        const {content, image} = resource;
         const resourceHTML = content.map(elem => {
             // console.log('new elem')
             const {class: className, headers, paragraphs, background} = elem;

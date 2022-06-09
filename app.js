@@ -17,15 +17,6 @@ app.use(passport.initialize());
 app.use(passport.session());
 app.use(express.json({ limit: '16MB' }));
 app.use(express.urlencoded({ extended: false }));
-// app.use(session()); // session middleware
-app.use(require('flash')());
- 
-app.use((req, res, next) => {
-    // flash a message
-    res.locals.success_msg = req.flash('success_msg');
-    res.locals.error_msg = req.flash('error_msg');
-    next();
-})
 
 app.use(express.json());
 // set the view engine to ejs
@@ -48,7 +39,7 @@ const start = async () => {
     try {
         await connectDB(process.env.MONGO_URI);
         // await populateProducts()
-        app.listen(port, console.log(`server is listening on port ${port}`));
+        app.listen(port, console.log(`server is listening on port ${port}, http://localhost:3000`));
     } catch (error) { console.log(error) }
 }
 start();

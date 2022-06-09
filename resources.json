@@ -1,63 +1,230 @@
 [
     {
-        "name": "Love and Marriage",
-        "resources": [
+        "name": "Being Single",
+        "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+        "category": "Love and Marriage",
+        "content": [
             {
-                "name": "Being Single",
-                "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
-                "content": [
-                    {
-                        "class": "banner-header",
-                        "headers": ["Being Single"],
-                        "paragraphs": [],
-                        "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
-                    },
-                    {
-                        "class": "paragraph-container",
-                        "headers": ["should you pursue marriage?"],
-                        "paragraphs": [
-                            "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
-                            "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
-                        ],
-                        "background": [false, ""]
-                    },
-                    {
-                        "class": "banner-divider",
-                        "headers": ["in order to evaluate your situation, ask yourself two questions:"],
-                        "paragraphs": [],
-                        "background": [false, ""]
-                    },
-                    {
-                        "class": "section-card",
-                        "headers": [
-                            "Question 1",
-                            "Have I been stalled?"
-                        ],
-                        "paragraphs": [
-                            "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
-                            "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
-                            "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
-                        ],
-                        "background": [false, ""]
-                    },
-                    {
-                        "class": "section-card",
-                        "headers": [
-                            "Question 2",
-                            "to what am i called?"
-                        ],
-                        "paragraphs": [
-                            "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
-                            "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
-                            "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
-                            "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
-                            "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
-                        ],
-                        "background": [false, ""]
-                    }
+                "class": "banner-header",
+                "headers": ["Being Single"],
+                "paragraphs": [],
+                "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
+            },
+            {
+                "class": "paragraph-container",
+                "headers": ["should you pursue marriage?"],
+                "paragraphs": [
+                    "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
+                    "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
                 ],
-                "id": "single"
+                "background": [false, ""]
+            },
+            {
+                "class": "banner-divider",
+                "headers": ["in order to evaluate your situation, ask yourself two questions:"],
+                "paragraphs": [],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 1",
+                    "Have I been stalled?"
+                ],
+                "paragraphs": [
+                    "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
+                    "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
+                    "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 2",
+                    "to what am i called?"
+                ],
+                "paragraphs": [
+                    "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
+                    "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
+                    "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
+                    "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
+                    "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
+                ],
+                "background": [false, ""]
             }
-        ]
+        ],
+        "id": "single"
+    },
+    {
+        "name": "Being Single 2",
+        "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+        "category": "Love and Marriage",
+        "content": [
+            {
+                "class": "banner-header",
+                "headers": ["Being Single"],
+                "paragraphs": [],
+                "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
+            },
+            {
+                "class": "paragraph-container",
+                "headers": ["should you pursue marriage?"],
+                "paragraphs": [
+                    "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
+                    "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "banner-divider",
+                "headers": ["in order to evaluate your situation, ask yourself two questions:"],
+                "paragraphs": [],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 1",
+                    "Have I been stalled?"
+                ],
+                "paragraphs": [
+                    "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
+                    "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
+                    "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 2",
+                    "to what am i called?"
+                ],
+                "paragraphs": [
+                    "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
+                    "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
+                    "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
+                    "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
+                    "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
+                ],
+                "background": [false, ""]
+            }
+        ],
+        "id": "single"
+    },
+    {
+        "name": "Being Single 3",
+        "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+        "category": "Love and Marriage",
+        "content": [
+            {
+                "class": "banner-header",
+                "headers": ["Being Single"],
+                "paragraphs": [],
+                "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
+            },
+            {
+                "class": "paragraph-container",
+                "headers": ["should you pursue marriage?"],
+                "paragraphs": [
+                    "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
+                    "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "banner-divider",
+                "headers": ["in order to evaluate your situation, ask yourself two questions:"],
+                "paragraphs": [],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 1",
+                    "Have I been stalled?"
+                ],
+                "paragraphs": [
+                    "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
+                    "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
+                    "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 2",
+                    "to what am i called?"
+                ],
+                "paragraphs": [
+                    "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
+                    "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
+                    "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
+                    "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
+                    "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
+                ],
+                "background": [false, ""]
+            }
+        ],
+        "id": "single"
+    },
+    {
+        "name": "WooHoo",
+        "image": "https://myfamilyseason.com/wp-content/uploads/2019/11/being-single.jpg",
+        "category": "Other More Different Title",
+        "content": [
+            {
+                "class": "banner-header",
+                "headers": ["Being Single"],
+                "paragraphs": [],
+                "background": [true, "https://myfamilyseason.com/wp-content/uploads/2019/10/shutterstock_289501205.jpg"]
+            },
+            {
+                "class": "paragraph-container",
+                "headers": ["should you pursue marriage?"],
+                "paragraphs": [
+                    "As an unmarried person, you have distinct opportunities to grow in your faith and to make a substantial contribution to the kingdom.",
+                    "In fact, the season you're in has the potential to be the most formative period of your life. How can you best honor God in this time? Many Christians wonder if they should move toward marriage or embrace the kind of single life the apostle Paul talks about in 1 Corinthians 7."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "banner-divider",
+                "headers": ["in order to evaluate your situation, ask yourself two questions:"],
+                "paragraphs": [],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 1",
+                    "Have I been stalled?"
+                ],
+                "paragraphs": [
+                    "Popular American culture tends to discourage marriage; implying people can live a more exciting, fulfilling life by remaining unmarried.",
+                    "Even Christians with the best intentions often drift into a single lifestyle marked by recreational relationships, hyper individualism, consumption and leisure.",
+                    "Following this cultural path, it's no surprise some Christian singles find their lives stalling out to loneliness, a series of broken relationships and a general lack of purpose. Those who find themselves in this cycle need to pause and reflect on how to become intentional rather than passive with regard to the single life."
+                ],
+                "background": [false, ""]
+            },
+            {
+                "class": "section-card",
+                "headers": [
+                    "Question 2",
+                    "to what am i called?"
+                ],
+                "paragraphs": [
+                    "In the scriptures God calls adults to follow one of two callings - either a path to Biblical marriage or a life of celibate service (Genesis 2, 1 Corinthians 7).",
+                    "The best way to honor God in your singleness is to be intentionally set apart for His purposes, recognizing that His call to both marriage and singleness is much different from the popular single culture because it includes a commitment to absolute purity, active engagement in Christian community, and faithful stewardship of your talents and resources. Singles who cultivate such qualities find it easier to discern if God is calling them to Biblical marriage or celibate service.",
+                    "Celibate Service: Al Mohler of Southern Seminary explains that celibacy means sacrificing the companionship of marriage, the pleasures of sex and the blessing of children for your entire life without being bitter about it. In that context, serving God in celibacy makes full engagement in the body of Christ - giving and receiving fellowship - vitally important. It is not a “consolation prize” for those who haven't yet found a spouse - but a purposeful life devoted to serving others as worship and “being Jesus” to others.",
+                    "Marriage and Family: Singles who don't feel called to celibacy should pursue a Biblical marriage (Ephesians 5:22-33) with hopeful preparation. While one may not know how and when they will marry, they can become intentional about eliminating roadblocks. They can remain faithful in purity, stewardship and community. They can also take initiative and pray purposefully for a good marriage. For men it means moving beyond passivity and taking the initiative to “leave and cleave” (Genesis 2:24) and to “find” a wife (Proverbs 18:22). For women, it means preparing for marriage in prudence (Proverbs 19:14), in purity (Ephesians 5:1-5), in community (Titus 2:3-5 and Ephesians 4:11-16), and in prayerfulness (Matthew 7:7-9 and Matthew 21:21-22).",
+                    "Whatever the circumstances of your life, you can find purpose and fulfillment as you break away from a stalled culture and honor God in hopeful pursuit of either celibate service or a God-honoring marriage."
+                ],
+                "background": [false, ""]
+            }
+        ],
+        "id": "single"
     }
 ]
