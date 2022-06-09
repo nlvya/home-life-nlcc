@@ -10,7 +10,7 @@ navigation.get('/', (req, res) => {
 })
 //log in page
 navigation.get('/login', (req, res) => {
-  res.render('pages/login', {expressFlash: req.flash('error_msg')})
+  res.render('pages/login')
 })
 
 navigation.get('/resource', function(req, res) {
@@ -20,5 +20,9 @@ navigation.get('/resource', function(req, res) {
 //ADMIN ROUTING
 navigation.get('/adminHome', ensureAuthenticated, (req, res) => {
   res.render('pages/adminHome')
+})
+
+navigation.get('/editResource', ensureAuthenticated, (req, res) => {
+  res.render('pages/editResource')
 })
 module.exports = navigation;

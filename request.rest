@@ -1,0 +1,22 @@
+GET http://localhost:3000/api/v1/resources HTTP/1.1
+Content-Type: application/json
+###
+GET http://localhost:3000/api/v1/resources/62a15926a4b90ae865f9acf8 HTTP/1.1
+Content-Type: application/json
+###
+POST http://localhost:3000/api/v1/resources HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "This is a test",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/250px-Tyrannosaurus_Rex_Holotype.jpg",
+    "category": "Dinos",
+    "content": [
+        {
+            "class": "banner-header",
+            "headers": ["Learn About Dinosaurs"],
+            "paragraphs": [],
+            "background": [true, "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/250px-Tyrannosaurus_Rex_Holotype.jpg"]
+        }
+    ]
+}

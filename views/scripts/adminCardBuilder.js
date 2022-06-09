@@ -21,7 +21,7 @@ const showCards = async () => {
                             const {name, image, _id: id} = resource;
                             return `
                                 <div class="card" style='background-image: url(${image})'>
-                                    <a href="/resource?id=${id}">
+                                    <a href="/editResource?id=${id}">
                                         <h1 class="card-title">${name}</h1>
                                     </a>
                                 </div>

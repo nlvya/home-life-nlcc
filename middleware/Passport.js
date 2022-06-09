@@ -34,7 +34,7 @@ module.exports = function (passport) {
                         if (isMatch){
                             return done(null,user);
                         }else{
-                            req.flash('error_msg', 'username or password is incorrect')
+                            // req.flash('error_msg', 'username or password is incorrect')
                             return done(null, false, { message: 'password Incorrect'})
                         }
                     })
